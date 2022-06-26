@@ -1,10 +1,5 @@
 # Hulu Clone
 ![alt text](https://www.billboard.com/wp-content/uploads/2021/11/hulu-logo.png)
-<div style="display:flex; align-items:center; gap: 10px;">
-    <img style="filter:invert(1)" src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="20" />
-    <a>https://next-hulu-swart.vercel.app</a>
-</div>
-
 <br/>
 
 ## About Hulu
