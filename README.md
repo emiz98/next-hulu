@@ -1,34 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Hulu Clone
+![alt text](https://www.billboard.com/wp-content/uploads/2021/11/hulu-logo.png)
+<div style="display:flex; align-items:center; gap: 10px;">
+    <img style="filter:invert(1)" src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="20" />
+    <a>https://next-hulu-swart.vercel.app</a>
+</div>
 
-## Getting Started
+<br/>
 
-First, run the development server:
+## About Hulu
+Hulu is an iternet streaming service, that provides advertiser-supported videos of television shows and films.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<br/>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Description
+This build was a simple movie app including movies with filtering capabilities with different categories.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<br/>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Tech Stack
+<div style="display:flex; gap: 20px; margin-top:10px">
+    <div style="display:flex; align-items:center; gap: 50px;">
+        <img src="https://cdn.sanity.io/images/1z5g6za5/production/ea0d729f383fe9f113c7d2da95af5a39eecfa226-64x64.png?w=2000&fit=max&auto=format" width="60" />
+    </div>
+    <div style="display:flex; align-items:center; gap: 50px;">
+        <img src="https://cdn.sanity.io/images/1z5g6za5/production/469ae564e81667f04a3b2ce4ae61d1de7788064d-300x300.png?w=2000&fit=max&auto=format" width="60"/> 
+    </div>
+    <div style="display:flex; align-items:center; gap: 50px;">
+    <img src="https://cdn.sanity.io/images/1z5g6za5/production/97986d3dd7e897b83e06a41aaf9ee7a8de146685-768x768.png?w=2000&fit=max&auto=format" width="60" />
+    </div>
+</div>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<br/>
 
-## Learn More
+## API's
+<img src="https://cdn.sanity.io/images/1z5g6za5/production/92d3ee2bb773e34bf8002b16d198706ac2bf431d-128x128.png?w=2000&fit=max&auto=format" width="60" />
 
-To learn more about Next.js, take a look at the following resources:
+<br/>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Project Goals & Outcomes
+✔️ Learning React & Next JS <br/>
+✔️ Learning SSR <br/>
+✔️ Learning Tailwind CSS
